@@ -1,0 +1,12 @@
+body {
+  margin: 1rem;
+  padding: 2rem;
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.battery {
+  font-size: 2rem;
+  color: rgb(255, 0, 0);
+}
